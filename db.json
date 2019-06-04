@@ -1,0 +1,156 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "adress": "777 Brockton Avenue, Abington",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "posts": [
+        {
+          "id": 1,
+          "title": "Bret Post #1",
+          "body": "typicode"
+        },
+        {
+          "id": 2,
+          "title": "Bret Post #2",
+          "body": "typicode"
+        },
+        {
+          "id": 3,
+          "title": "Bret Post #3",
+          "body": "typicode"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "adress": "30 Memorial Drive, Avon",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "posts": [
+        {
+          "id": 1,
+          "title": "Antonette Post #1",
+          "body": "typicode"
+        },
+        {
+          "id": 2,
+          "title": "Antonette Post #2",
+          "body": "typicode"
+        },
+        {
+          "id": 3,
+          "title": "Antonette Post #3",
+          "body": "typicode"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "adress": "250 Hartford Avenue, Bellingham",
+      "username": "Nicholas.Stanton",
+      "email": "Rey.Padberg@rosamond.biz",
+      "posts": [
+        {
+          "id": 1,
+          "title": "Nicholas Post #1",
+          "body": "typicode"
+        },
+        {
+          "id": 2,
+          "title": "Nicholas Post #2",
+          "body": "typicode"
+        },
+        {
+          "id": 3,
+          "title": "Nicholas Post #3",
+          "body": "typicode"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "adress": "700 Oak Street, Brockton",
+      "username": "Piterson",
+      "email": "Piterson@rosamond.biz",
+      "posts": [
+        {
+          "id": 1,
+          "title": "Piterso= Post #1",
+          "body": "typicode"
+        },
+        {
+          "id": 2,
+          "title": "Piterso= Post #2",
+          "body": "typicode"
+        },
+        {
+          "id": 3,
+          "title": "Piterso= Post #3",
+          "body": "typicode"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "adress": "66 Parkhurst Rd, Chelmsford",
+      "username": "Piterson",
+      "email": "Piterson@rosamond.biz",
+      "posts": [
+        {
+          "id": 1,
+          "title": "Piterso= Post #1",
+          "body": "typicode"
+        },
+        {
+          "id": 2,
+          "title": "Piterso= Post #2",
+          "body": "typicode"
+        },
+        {
+          "id": 3,
+          "title": "Piterso= Post #3",
+          "body": "typicode"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "adress": "591 Memorial Dr, Chicopee",
+      "username": "Piterson",
+      "email": "Piterson@rosamond.biz",
+      "posts": [
+        {
+          "id": 1,
+          "title": "Piterso= Post #1",
+          "body": "typicode"
+        },
+        {
+          "id": 2,
+          "title": "Piterso= Post #2",
+          "body": "typicode"
+        },
+        {
+          "id": 3,
+          "title": "Piterso= Post #3",
+          "body": "typicode"
+        }
+      ]
+    }
+  ]
+}

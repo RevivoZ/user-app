@@ -1,0 +1,11 @@
+<div class="adminBtn">
+    <input type="checkbox" [(ngModel)]="isAdmin" (change)="toggleAdmin()">Admin
+    <br>
+    <span class="errMsg">{{ errMsg }}</span>
+</div>
+
+<!-- Users table -->
+<ng2-smart-table [settings]="settings" [source]="data" (createConfirm)="onPostCall($event, 'create')"
+    (editConfirm)="onPostCall($event, 'update')" (deleteConfirm)="onPostCall($event, 'delete')"
+    (userRowSelect)="onUserRowSelect($event)">
+</ng2-smart-table>

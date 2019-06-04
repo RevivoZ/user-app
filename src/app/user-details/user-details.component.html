@@ -1,0 +1,11 @@
+<div *ngIf="data">
+  <ng2-smart-table [settings]="settings" [source]="data">
+  </ng2-smart-table>
+  <br><br><br>
+  <ng2-smart-table [settings]="settingsPosts" [source]="dataPosts">
+  </ng2-smart-table>
+</div>
+
+<div>
+  <span>{{ errMsg }}</span>
+</div>

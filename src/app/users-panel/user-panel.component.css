@@ -1,0 +1,18 @@
+td,
+th {
+    border: 14px solid black;
+}
+
+table {
+    background-color: red;
+}
+
+.adminBtn {
+    font-size: 20px;
+    margin: 20px 0;
+    margin-left: 20%;
+}
+
+.errMsg {
+    color: red;
+}
