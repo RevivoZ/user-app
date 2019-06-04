@@ -1,10 +1,10 @@
 # RevApp
 
 Simple User-app managment made with: 
--Angular 7
--JSON server
--NRGX
--ng2-SmartTable
+-Angular 7 <br />
+-JSON server <br />
+-NRGX <br />
+-ng2-SmartTable <br />
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
